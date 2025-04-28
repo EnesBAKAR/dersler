@@ -1,0 +1,66 @@
+[
+  {
+    "isim": "Matematik",
+    "kalori": "Sayısal",
+    "karbonhidrat": "Sayılar, şekiller ve işlemler bilimi.",
+    "protein": "Toplama, çıkarma, çarpma, bölme.",
+    "yag": "Problem çözme ve mantıklı düşünme becerisi kazandırır.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/js.png?raw=true"
+  },
+  {
+    "isim": "Türkçe",
+    "kalori": "Sözel",
+    "karbonhidrat": "Türk dilini doğru ve etkili kullanma dersi.",
+    "protein": "Dil bilgisi, yazım kuralları, okuma-anlama, söz sanatları.",
+    "yag": "İletişim becerisini geliştirir.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/ts.png?raw=true"
+  },
+  {
+    "isim": "Fizik",
+    "kalori": "Sayısal",
+    "karbonhidrat": "Madde, enerji ve hareketi inceleyen bilim dalı.",
+    "protein": " Kuvvet, hareket, elektrik, optik, enerji.",
+    "yag": "Doğayı anlama ve teknolojiyi geliştirme temeli sağlar.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/py.png?raw=true"
+  },
+  {
+    "isim": "Kimya",
+    "kalori": "Sayısal",
+    "karbonhidrat": " Maddelerin yapısını, özelliklerini ve değişimlerini inceleyen bilim dalı.",
+    "protein": "Atom yapısı, periyodik tablo, kimyasal tepkimeler, asit-bazlar.",
+    "yag": "Yeni maddeler üretmek ve doğayı anlamak için gereklidir.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/html.png?raw=true"
+  },
+  {
+    "isim": "Biyoloji",
+    "kalori": "Sayısal",
+    "karbonhidrat": " Canlıları ve yaşam süreçlerini inceleyen bilim dalı.",
+    "protein": "Hücre yapısı, genetik, ekoloji, evrim.",
+    "yag": "Yaşamı anlama ve sağlık alanında ilerlemeyi sağlar.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/css.png?raw=true"
+  },
+  {
+    "isim": "Tarih",
+    "kalori": "Sözel",
+    "karbonhidrat": "Geçmişteki olayları, toplumları ve uygarlıkları inceleyen bilim dalı.",
+    "protein": " İlk çağ uygarlıkları, Osmanlı tarihi, dünya savaşları, inkılap tarihi.",
+    "yag": "Geçmişi anlayarak geleceğe yön verir.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/php.png?raw=true"
+  },
+  {
+    "isim": "Coğrafya",
+    "kalori": "Sözel",
+    "karbonhidrat": " Yeryüzünü, insan-doğa ilişkilerini ve doğal olayları inceleyen bilim dalı.",
+    "protein": " İklim, yer şekilleri, nüfus, doğal afetler.",
+    "yag": " Doğayı tanıma ve sürdürülebilir yaşam için bilinç kazandırır.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/kotlin.png?raw=true"
+  },
+  {
+    "isim": "Felsefe",
+    "kalori": "Sözel",
+    "karbonhidrat": "Varlığı, bilgiyi ve değerleri sorgulayan düşünce disiplini.",
+    "protein": "Bilgi felsefesi, ahlak felsefesi, varlık felsefesi, siyaset felsefesi.",
+    "yag": "Eleştirel düşünme ve sorgulama becerisi kazandırır.",
+    "gorsel": "https://github.com/kaanstudent/YazilimDilleriTanitim/blob/main/csharp.png?raw=true"
+  }
+]
